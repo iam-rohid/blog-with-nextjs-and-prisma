@@ -1,5 +1,15 @@
 {
-  "name": "blog-template-with-nextjs",
+  "name": "blog-with-nextjs-and-prisma",
+  "author": {
+    "email": "rohidul209@gmail.com",
+    "name": "Rohidul Islam",
+    "url": "https://rohidulislam.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohidisdev/blog-with-nextjs-and-prisma"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
